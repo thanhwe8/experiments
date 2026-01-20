@@ -1,0 +1,1 @@
+g++ SimpleMCMain4.cpp SimpleMC2.cpp Random1.cpp PayOff2.cpp -o SimpleMCMain4

@@ -2,14 +2,14 @@
 #define MINMAX_H
 
 template<class T> 
-T max(a,b)
+T max(T a,T b)
 {
     return (a<b) ? b : a;
 }
 
 
 template<class T>
-T min(a,b)
+T min(T a,T b)
 {
     return (a>b) ? b : a;
 }
